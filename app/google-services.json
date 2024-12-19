@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304216193543",
+    "project_id": "appcidade-6d91e",
+    "storage_bucket": "appcidade-6d91e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304216193543:android:26c33ef9af005770db88a2",
+        "android_client_info": {
+          "package_name": "com.example.appteste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCEY7OKTx8FKO1hEjkdZyIQ3DFdDvVgv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
